@@ -1,0 +1,18 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(16,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(16,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(27,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(27,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(53,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(53,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(53,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(62,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(62,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(62,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(71,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(71,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(71,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(135,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(135,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(135,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ConsoleApplication9.vcxproj -> C:\Users\PC\source\repos\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
