@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(108,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(108,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(109,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(109,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(109,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110,11): warning C4305: '+=': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\PC\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
